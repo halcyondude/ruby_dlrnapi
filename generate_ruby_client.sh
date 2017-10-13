@@ -14,3 +14,5 @@ java -jar /tmp/swagger-codegen-cli-2.2.3.jar generate \
     -l html \
     -c swaggerconfig-html.json \
 
+mv index.html docs/ruby_dlrnapi.html
+
