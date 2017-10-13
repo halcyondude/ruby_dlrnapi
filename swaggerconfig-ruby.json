@@ -1,0 +1,10 @@
+{
+    "gemName" : "ruby_dlrnapi",
+	"moduleName" : "RubyDlrnapi",
+	"gemVersion" : "1.0.0",
+	"gemLicense" : "MIT",
+	"gemHomepage" : "https://github.com/halcyondude/ruby_dlrnapi",
+	"gemSummary" : "A ruby client wrapper for https://github.com/softwarefactory-project/DLRN/blob/master/doc/api_definition.yaml",
+	"gemDescription" : "A ruby client generated with swagger 2.2.3 for rdoproject.org delorean API",
+	"gemAuthor" : "halcyondude"
+}

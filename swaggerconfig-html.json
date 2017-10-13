@@ -1,0 +1,7 @@
+{
+    "appName" : "ruby_dlrnapi",
+	"appDescription" : "A ruby client wrapper for https://github.com/softwarefactory-project/DLRN/blob/master/doc/api_definition.yaml",
+	"infoUrl" : "https://github.com/halcyondude/ruby_dlrnapi",
+	"licenseInfo" : "MIT",
+	"licenseUrl" : "https://github.com/halcyondude/ruby_dlrnapi/blob/master/LICENSE" 
+}
